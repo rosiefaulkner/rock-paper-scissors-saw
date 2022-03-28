@@ -1,4 +1,4 @@
-# rock-paper-scissors-saw
+# Rock, Paper, Scissors, Saw Text-Based Game (Java)
 This Rock Paper Scissors Saw Text-Based Game is a simple game played in the terminal created with object-oriented programming using Java. It will simulate a Rock, Paper, Scissors, Saw game. There is a possibility of two human users. The computer will also be a user, thus equating a game played between 3 users, two being human. The game will begin by requesting the names of the users and then displaying a menu. At the end of the game, the game will display the winners based off of most won games. 
 
 
