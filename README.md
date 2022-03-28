@@ -14,18 +14,23 @@ On invalid input, user will get prompted to re-input name and error will read �
 After all inputs are correct, the user will be prompted to select from a menu consisting of 4 options: 1. : “1. Play game”, “2. Show game rules”, “3. Show statistics”, and “4. Exit” in that order.          
 User must select from the menu. 
 
-### Menu option 1 will allow the user to begin playing the game.
-### Menu option 2 will display game rules for the user . The rules to display are as follows:
-### Rock breaks scissors and Saw therefore rock wins over scissors and saw. Rock loses against paper.
-### Scissors cut paper therefore scissors win over paper. Scissors lose against rock and Saw.
-### Paper covers rock therefore paper wins over rock. Paper loses against scissors and saw
-### Saw cuts through scissors and paper therefore saw wins over scissors and paper. Saw loses against rock.
-### If player and computer make the same selection, there is a tie
-
-### Menu option 3 will display how many games each player has played and how many wins each player has achieved. 
-### Menu option 4 will exit from the game and return the user to the terminal. 
-### Users, while playing game after having clicked option 1, will type the weapon of their choice into the terminal. If user types anything other than “rock”, “paper”, “scissors” or “saw”, game will prompt user to re-type their input and display error. 
+### 1. Menu option 1 will allow the user to begin playing the game.
+### 2. Menu option 2 will display game rules for the user . The rules to display are as follows:
+### 3. Rock breaks scissors and Saw therefore rock wins over scissors and saw. Rock loses against paper.
+### 4. Scissors cut paper therefore scissors win over paper. Scissors lose against rock and Saw.
+### 5. Paper covers rock therefore paper wins over rock. Paper loses against scissors and saw
+### 6. Saw cuts through scissors and paper therefore saw wins over scissors and paper. Saw loses against rock.
+### 7. If player and computer make the same selection, there is a tie
+### 8. Menu option 3 will display how many games each player has played and how many wins each player has achieved. 
+### 9. Menu option 4 will exit from the game and return the user to the terminal. 
+### 10. Users, while playing game after having clicked option 1, will type the weapon of their choice into the terminal. If user types anything other than “rock”, “paper”, “scissors” or “saw”, game will prompt user to re-type their input and display error. 
 
 ## Screenshots Interface
 
-![](https://ibb.co/CP7gNKr)
+![](https://i.ibb.co/g4q33sy/Screen-Shot-2022-03-27-at-11-37-53-PM.png)
+
+![](https://i.ibb.co/tLsgkpd/Screen-Shot-2022-03-27-at-11-37-10-PM.png)
+
+![](https://i.ibb.co/H2RWp7m/Screen-Shot-2022-03-27-at-11-36-52-PM.png)
+
+![](https://i.ibb.co/S5J8zqC/Screen-Shot-2022-03-27-at-11-36-39-PM.png)
